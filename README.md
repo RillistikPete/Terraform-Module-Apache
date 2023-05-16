@@ -2,6 +2,8 @@ Terraform module to provision an EC2 instance that is running Apache.
 
 Not intended for production use. Just showcasing how to create a custom module on Terraform Registry.
 
+https://registry.terraform.io/modules/RillistikPete/moduleApache/aws/latest
+
 
 ```hcl
 terraform {
